@@ -1,0 +1,274 @@
+.navbar  { 
+    position:sticky;
+    top:0;
+    display: flex; 
+    background-color: #FF6600;
+    
+  
+}
+#pri00{
+    
+}
+.cart a{ 
+    text-decoration: none;
+    color: #FF6600;
+}
+.cart{
+   opacity: 80%;
+    background-color: white;
+    width: 120px;
+    padding-left: 20px;
+    
+    
+    
+}
+#pri00{
+    margin-left: 100px;
+}
+#pri5{
+    margin-left: 320px;
+}
+#pri0{ 
+    margin-left: 110px;
+}
+#pri{
+    margin-left: 120px;
+}
+.cart :hover{
+  opacity: 70%;
+  padding-top: 5px;
+ 
+
+} 
+.mooh {
+    width: 50px;
+}
+#wissemoxl{
+    width: 50px;
+    margin-top: 50px;
+
+}
+
+.containet ul li { 
+    float: left;
+    list-style: none; 
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+     color: white;
+     border-bottom: 5px solid #FF6600 ;
+    height: 40px;
+    
+}
+.containet ul li:hover {
+    opacity: 60%;
+}
+.containet {
+    margin-left: 800px;
+}
+.random{ 
+    border-bottom: 5px solid white ;
+}
+
+.homed{ 
+   background-image: url("meda01.jpg");
+   
+   
+   height: 630px;
+}
+#homed03{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 80px;
+    color: white;
+    opacity: 85%;
+    margin-left: 400px;
+    padding-top: 80px;
+    
+    height: 250px;
+}
+#homed04 h3{ 
+    color:#FF6600;
+    font-size: 40px;
+    display: flex;
+    margin-left: 500px;
+    background-color: white; 
+    opacity: 85%;
+    padding-left: 150px;
+       
+}
+
+
+
+
+.shop{
+   margin-top: 70px;
+    margin-left: 100px;
+    margin-right: 50px;
+    width: 1400px; 
+    
+    
+}
+.shop02{ 
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-evenly;
+     justify-content: flex-start;
+
+}
+.shoptext {
+    display: flex;
+}
+.shoptext p{
+    font-size: 20px;
+    color: #FF6600;
+}
+.shoptext button{
+    border: none;
+    margin-left: 100px; 
+    background-color: #FF6600; 
+    width: 50px;
+}
+.shop003{
+    margin-left: 150px;
+}
+
+.shop003 h2 { 
+    margin-left: 80px;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #FF6600;
+}
+
+
+.cart{
+    display: flex;
+}
+.cart01{
+    margin-left: 300px;
+} 
+.cart0 h3{
+    border-bottom: 2px solid;
+    width: 150px;
+    text-align: center;
+}
+.cart03{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.cart03 img {
+    width: 120px;
+}
+.cart03 p{ 
+    margin-left: 290px;
+    font-size: 22px;
+    margin-bottom: 20px;    
+} 
+.cart03  button {
+    margin-left: 250px;
+    border: none;
+    background-color: orangered;
+    height: 60px;
+    margin-top: 20px;
+   
+} 
+.cart03 input{
+    width: 50px;
+    height: 20px;
+    margin-left: 150px;
+}
+
+.all02{
+    display: flex;
+    margin-left: 150px;
+}
+.all02 h3{
+    margin-left: 150px;
+    font-size: 20px;
+    border-bottom: 1px solid;
+}
+.mom {
+    margin-left: 270px;
+}
+.mpo{
+    display: flex;
+}
+.mop{
+    margin-left: 130px;
+}
+.mop0 input{ 
+    margin-top: 20px;
+    width: 30px; 
+}
+.mop0 { 
+    margin-left: 170px;
+  
+   
+}
+.total{
+    margin-left: 170px;
+}
+.product img{
+    width: 120px;
+    
+}
+.product{
+    margin-left: 100px;
+}
+.prrd ion-icon {
+font-size: 25px;
+color: blue;
+margin-left: 10px;
+margin-right:80px;
+cursor: pointer;
+}
+.prrd{
+    flex-wrap: wrap;
+    
+     justify-content: space-evenly;
+}
+.prrd p{
+    margin-top: 105px;
+    margin-left: 50px;
+}
+.moh {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+    border-bottom: 1px solid;
+}
+.da{
+   margin-top: 50px;
+   padding-left:50px ;
+   padding-top: 20px;
+}
+.wism{
+    margin-left: 50px;
+}
+.moh p{
+    margin-top: 70px;
+    margin-right: 80px
+    
+}
+.moh span{
+    margin-top: 70px;
+    margin-right: 80px
+    ;
+}
+
+.wiss {
+    margin-top: 60px;
+}
+.total{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.basketTotalcontainer{
+    padding-left: 1000px;
+   
+}
+.moh img {
+    margin-right: 90px;
+}
